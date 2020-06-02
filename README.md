@@ -1,4 +1,4 @@
-# ExtroForWVEnrich
+# Expansional Retrofitting for Word Vector Enrichment
 Anonymous code repository for the paper submitted in EMNLP 2020.
 
 ## Main Codes are based on JupyterNotebook
