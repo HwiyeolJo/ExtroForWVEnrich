@@ -7,8 +7,9 @@ Note that these main codes are uploaded before the deadline :)
 2) ExtroScriptNotebook.ipynb : Script-like codes for Deep-Extrofitting
 3) TextClassification.ipynb : Codes for downstream tasks.
 
-Happily Enjoy running them!
+* few modifications (maybe datapath) are only required to run them by yourself.
 
 ## Other data resources
-We are delayed for finding external storage to upload such large datasets (e.g., Word Embeddings).
-They will be linked very soon!
+We are delayed for finding external storage to upload such large datasets (e.g., 4.7GB Word Embeddings) in Anonymous.
+In GoogleDrive, detailed information includes my name and affiliation.
+So... it will be linked very soon!
