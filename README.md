@@ -10,6 +10,8 @@ Note that these main codes are uploaded before the deadline :)
 * few modifications (maybe datapath) are only required to run them by yourself.
 
 ## Other data resources
-We are delayed for finding external storage to upload such large datasets (e.g., 4.7GB Word Embeddings) in Anonymous.
+We are delayed for finding external storage to upload such large datasets (e.g., 4.7GB per a Word Embedding File) in Anonymous.
+
 In GoogleDrive, detailed information includes my name and affiliation.
+
 So... it will be linked very soon!
