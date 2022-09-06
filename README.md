@@ -1,10 +1,15 @@
-Anonymous code repository for the paper submitted in ACL 2021.
+Anonymous code repository for the paper submitted in EMNLP 2022. (Updated)
 
 ## Main Codes are based on JupyterNotebook
 Note that these main codes are uploaded before the deadline :)
 1) RelatedWordExtractor.ipynb : Semantically related words extractor for Self-Extrofitting
 2) ExtroScriptNotebook.ipynb : Script-like codes for Deep-Extrofitting
+
+1+2) SelfExtro.ipynb : Combination of 1) and 2) in GPU version (Updated)
+
 3) TextClassification.ipynb : Codes for downstream tasks.
+
+
 
 * few modifications (maybe datapath) are only required to run them by yourself.
 
