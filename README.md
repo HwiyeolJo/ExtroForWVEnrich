@@ -17,9 +17,7 @@ The possible solutions are:
 
 - use old version of scikit-learn
 
-- use old version of LDA;
-
-  - change sklearn.discriminant_analysis.LinearDiscriminantAnalysis to sklearn.lda.LDA
+- add more semantic lexicon as much as possible
 
 Few modifications (maybe data_path) are only required to run them by yourself.
 
