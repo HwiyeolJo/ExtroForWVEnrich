@@ -9,9 +9,19 @@ Note that these main codes are uploaded before the deadline :)
 
 3) TextClassification.ipynb : Codes for downstream tasks.
 
+## update 230121
+Due to the lastest update of scikit-learn, vector dimension after extrofitting could be weird.
+- In the case of the ‘svd’ solver, the shape is (n_samples, min(rank, n_components)).
 
+The possible solutions are:
 
-* few modifications (maybe datapath) are only required to run them by yourself.
+- use old version of scikit-learn
+
+- use old version of LDA;
+
+  - change sklearn.discriminant_analysis.LinearDiscriminantAnalysis to sklearn.lda.LDA
+
+Few modifications (maybe data_path) are only required to run them by yourself.
 
 ## Other data resources
 We are delayed for finding external storage to upload such large datasets (e.g., 4.7GB per a Word Embedding File) in Anonymous.
