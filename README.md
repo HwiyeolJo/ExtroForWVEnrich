@@ -1,4 +1,4 @@
-Anonymous code repository for the paper submitted in EMNLP 2022. (Updated)
+Anonymous code repository for the paper submitted in ACL 2023.
 
 ## Main Codes are based on JupyterNotebook
 Note that these main codes are uploaded before the deadline :)
